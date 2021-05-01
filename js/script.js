@@ -51,12 +51,14 @@ $(document).ready(function () {
 let button = document.querySelector('#champions');
 let popup = document.querySelector('#popup');
 let closeButton = document.querySelector('#close')
+let popapBody = document.querySelector('.popup__body');
 
 button.addEventListener('click', openClose);
-closeButton.addEventListener('click', openClose)
+closeButton.addEventListener('click', openClose);
 
 function openClose() {
 	popup.classList.toggle('shown');
+	popapBody.classList.toggle('shown');
 }
 
 //Анимация по клику====================================
