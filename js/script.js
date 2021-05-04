@@ -185,7 +185,28 @@ const data = {
 			"lastName": "Алексеев",
 			"img": "./male.png",
 			"points": "1000"
-		}
+		},
+		{
+			"id": "122145",
+			"name": "Филат",
+			"lastName": "Бунько",
+			"img": "./male.png",
+			"points": "1100"
+		},
+		{
+			"id": "122145",
+			"name": "Анна",
+			"lastName": "Старченко",
+			"img": "./male.png",
+			"points": "110"
+		},
+		{
+			"id": "687",
+			"name": "Елизавета",
+			"lastName": "Сварченко",
+			"img": "./male.png",
+			"points": "790"
+		},
 	],
 	"friends": [
 		{
@@ -224,7 +245,7 @@ const data = {
 			"points": "1200"
 		},
 		{
-			"id": "65564",
+			"id": "322",
 			"name": "Добрыня",
 			"lastName": "Петруньков",
 			"img": "./female.png",
