@@ -211,11 +211,32 @@ const data = {
 		},
 		{
 			"id": "15564",
-			"name": "Дарина",
+			"name": "Карина",
 			"lastName": "Боброва",
 			"img": "./female.png",
 			"points": "1000"
-		}
+		},
+		{
+			"id": "12264",
+			"name": "Петр",
+			"lastName": "Петрунькин",
+			"img": "./female.png",
+			"points": "1200"
+		},
+		{
+			"id": "65564",
+			"name": "Добрыня",
+			"lastName": "Петруньков",
+			"img": "./female.png",
+			"points": "1400"
+		},
+		{
+			"id": "115564",
+			"name": "Алёша",
+			"lastName": "Долбиков",
+			"img": "./female.png",
+			"points": "567"
+		},
 	]
 }
 let arr = [];  //Общий массив
